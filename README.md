@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Artrlc
-- 👀 I’m interested in sex
-- 🌱 I’m currently learning sexology
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me http://t.me/NxVaen
 
