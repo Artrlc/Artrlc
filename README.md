@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/1b057dd24f8138a066955.mp4" alt="Artrlc Logo">
+  <img src="https://telegra.ph/file/09e5cdea72f4120e09a47.jpg">
 </p>
 
 <h1 align="center">Hi 👋, I'm Artrlc ⚡️</h1>
