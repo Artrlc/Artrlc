@@ -44,15 +44,21 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artrlc&show_icons=true&locale=en&layout=compact" alt="Artrlc" /></p>
 
-<img alt="programing gif" align="right" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artrlc&show_icons=true&locale=en&layout=compact" alt="Artrlc" /></p>
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Artrlc&show_icons=true&locale=en" alt="Artrlc" /></p>
 
+---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Artrlc&" alt="Artrlc" /></p>
+
+---
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+
+<img alt="programing gif" align="center" width=300px src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 ---
 <!---
