@@ -24,9 +24,9 @@
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://instagram.com/xartrlc" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/instagram.png" /></a> 
 <a href="https://telegram.dog/NxVaen" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/telegram.png" /></a>
-<a href="https://youtube.com/" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/youtube.png" /></a>  
-<a href="https://twitter.com/" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/twitter.png" /></a> 
-<a href="https://linkedin.com/in/" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/linkedin.png" /></a> 
+<a href="https://youtube.com" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/youtube.png" /></a>  
+<a href="https://twitter.com" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/twitter.png" /></a> 
+<a href="https://linkedin.com" class="padded"><img align="left" alt="Artrlc" width="28px" src="./res/linkedin.png" /></a> 
 </br>
 
 ---
@@ -35,6 +35,12 @@
 </br>
 
 [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://telegram.dog/NxVaen)
+
+---
+
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31o6ls2l2mixwanoopjqgoayh4by?si=f2d2738515f04e1e)
 
 ---
 
@@ -47,6 +53,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Artrlc&show_icons=true&locale=en" alt="Artrlc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Artrlc&" alt="Artrlc" /></p>
+
+---
 <!---
 Artrlc/Artrlc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
